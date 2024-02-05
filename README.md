@@ -1,23 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Alexsio is geys</title>
-<meta name="description" content="Wigwig">
-<style type="text/css">/* Caratteristiche generali del corpo della pagina */
-body {
- margin: 0;
- padding: 0;
- background-color: #FFF;
- font-family: arial, verdana, sans-serif;
- color: #000;
-}
-/* caratteristiche del contenitore del codice HTML */
-.container {
- width: 80%;
- margin: 0 auto;
-}</style>
-</head>
-<body>
 <div class="container">
 <h1><span style="text-decoration: underline;">ALESSIO IS GAYS !!!!</span></h1>
 <p style="text-align: left;">How much do you think is alessio gays?</p>
